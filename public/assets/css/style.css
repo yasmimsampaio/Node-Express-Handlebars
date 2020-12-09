@@ -1,7 +1,11 @@
+body {
+  background-image: url("235207.png");
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: greenyellow;
 }
 
 .label {
